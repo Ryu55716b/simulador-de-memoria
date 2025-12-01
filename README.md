@@ -1,8 +1,15 @@
 # Simulador de Memoria Virtual con Paginación y Swap
 
-## i. Nombre del integrante
-- Nombre: Zamora Camacho Adal Mauricio  
-- Legajo: a2213332218
+## i. Nombres de los integrantes
+Mendez Guerrero Pablo Daniel
+a2223330178
+Ortega Resendiz Luis Fernando
+a2183330150
+Sanchez Morales Jesus
+a2223339020
+Vergara Gonzalez Magnus Henrich
+a2143222011
+
 
 ## ii. Cómo compilar y ejecutar
 
