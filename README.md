@@ -1,6 +1,8 @@
 # Simulador de Memoria Virtual con Paginación y Swap
 
 ## i. Nombres de los integrantes
+Zamora Camacho Adal Mauricio
+A2213332218
 Mendez Guerrero Pablo Daniel
 a2223330178
 Ortega Resendiz Luis Fernando
