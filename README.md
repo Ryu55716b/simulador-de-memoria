@@ -6,8 +6,8 @@
 
 ## ii. Cómo compilar y ejecutar
 
-### Forma más fácil (para el profesor)
-1. Descargar simulador.exe y config.ini desde Moodle  
+### Forma más fácil
+1. Descargar simulador.exe y config.ini desde Github  
 2. Ponerlos en la misma carpeta  
 3. Hacer doble clic en simulador.exe  
 → Arranca solo y muestra toda la simulación
@@ -20,7 +20,7 @@ por fifo o lru → guardar → volver a abrir el .exe
 ### En VS Code  
 Abrir la carpeta del proyecto → presionar F5 → se compila y corre automáticamente
 
-### Desde terminal (si alguien quiere compilar a mano)
+### Desde terminal
 g++ -std=c++17 src/*.cpp -o simulador.exe  
 ./simulador.exe
 
